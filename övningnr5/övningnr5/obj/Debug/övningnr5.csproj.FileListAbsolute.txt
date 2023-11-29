@@ -1,0 +1,8 @@
+C:\Users\zirko\source\repos\övningnr5\övningnr5\bin\Debug\övningnr5.exe.config
+C:\Users\zirko\source\repos\övningnr5\övningnr5\bin\Debug\övningnr5.exe
+C:\Users\zirko\source\repos\övningnr5\övningnr5\bin\Debug\övningnr5.pdb
+C:\Users\zirko\source\repos\övningnr5\övningnr5\obj\Debug\övningnr5.csproj.AssemblyReference.cache
+C:\Users\zirko\source\repos\övningnr5\övningnr5\obj\Debug\övningnr5.csproj.SuggestedBindingRedirects.cache
+C:\Users\zirko\source\repos\övningnr5\övningnr5\obj\Debug\övningnr5.csproj.CoreCompileInputs.cache
+C:\Users\zirko\source\repos\övningnr5\övningnr5\obj\Debug\övningnr5.exe
+C:\Users\zirko\source\repos\övningnr5\övningnr5\obj\Debug\övningnr5.pdb
